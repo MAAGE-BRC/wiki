@@ -1,1 +1,1 @@
-# gh-wiki
+# wiki
